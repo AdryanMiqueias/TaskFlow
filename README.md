@@ -120,4 +120,4 @@ Ação do usuário → Atualiza state → save() → render()
 
 ## 📄 Licença
 
-MIT © [Seu Nome]
+MIT © [Adryan Miqueias Oliveira Pereira]
